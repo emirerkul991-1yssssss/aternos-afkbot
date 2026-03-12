@@ -1,7 +1,7 @@
 {
-	"host": "ManucrackYTprro.aternos.me",
-	"port": "28153",
-	"username": "Mr Origami",
+	"host": "mochiiiSMP82b2.aternos.me:37105",
+	"port": "37105",
+	"username": "Dream",
 	"logger": [ true
 		, "true : displays not necessary logs (ex: key input logs).",
 		"false : displays only necessary logs."
